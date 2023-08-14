@@ -1,0 +1,1 @@
+tellraw @a ["\n",{"text":"Ring of Fire loaded!","bold":true,"color":"aqua"},"\n",{"text":"Stonley890/BogTheMudWing - Version 1.0.0","color":"gold"},"\n","\n",{"text":"Use /function rof:start to get started."},"\n",{"text":"Put all runners on the runner team","italic":true,"color":"dark_gray"},"\n"]
