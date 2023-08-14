@@ -1,4 +1,3 @@
-# Ring of FIre
 Ring of Fire is a simple asymmetrical multiplayer Minecraft minigame for a variable number of players.
 
 ---
@@ -24,3 +23,11 @@ Make sure the data pack is loaded and run `/reload` (or `/minecraft:reload` when
 If you want to start another game in the same world, you must destroy all glowing obsidian before doing so.
 
 **This game will not function correctly if the difficulty is set to peaceful.**
+
+---
+
+Want to see the gameplay? Check out this video from Waffle Irons Gaming:
+
+[![https://youtu.be/bvHNbTVRs2c](https://i.ytimg.com/vi_webp/bvHNbTVRs2c/maxresdefault.webp)](https://youtu.be/bvHNbTVRs2c)
+
+Note that this particular video showcases the gameplay, but does not use this data pack.
